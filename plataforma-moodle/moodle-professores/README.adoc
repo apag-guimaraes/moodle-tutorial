@@ -236,6 +236,11 @@ No vídeo a seguir é apresentado pelo professor Vinicius Istofel como o aluno p
 
 video::PZhj8EhwimE[youtube,width=640,height=480]
 
+=== Criação de grupos de estudantes dentro da disciplina
+
+Este recurso possibilita o professor disponibilizar tarefas/arquivos diferentes para grupos específicos dentro da disciplina.
+
+video::v-9oFBWB68o[youtube,width=640,height=480]
 
 == Conteúdo Interativo com H5P
 
