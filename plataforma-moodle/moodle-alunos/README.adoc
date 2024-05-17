@@ -62,19 +62,19 @@ O vídeo a seguir apresenta o acesso através do Moodle do Campus Palmas, no ent
 
 video::v_vQvUifMm0[youtube,width=640,height=480]
 
-=== Enviando e recebendo mensagens através do Moodle
+== Enviando e recebendo mensagens através do Moodle
 
 No vídeo a seguir é apresentado como enviar mensagens através do Moodle.
 
 video::wQP0E-NxFv0[youtube,width=640,height=480]
 
-=== Enviando uma tarefa para o professor em um curso no Moodle
+== Enviando uma tarefa para o professor em um curso no Moodle
 
 Nesta aula é apresentado como o esudante pode enviar um arquivo em qualquer formato para o professor.
 
 video::UEm-jTFH7Mk[youtube,width=640,height=480]
 
-=== Enviando uma mensagem ao fórum de um curso no Moodle 
+== Enviando uma mensagem ao fórum de um curso no Moodle 
 
 O módulo de atividade fórum permite que participantes tenham discussões assíncronas, ou seja, discussões que acontecem durante um longo período de tempo.
 
