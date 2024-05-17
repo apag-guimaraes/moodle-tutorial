@@ -80,6 +80,12 @@ Você pode gerar um backup de um curso/disciplina no Moodle e restaurar em outra
 
 video::8STZuIBHIHY[youtube,width=640,height=480]
 
+== Criar grupos de estudantes dentro da disciplina
+
+Este recurso possibilita o professor disponibilizar tarefas/arquivos diferentes para grupos específicos dentro da disciplina.
+
+video::v-9oFBWB68o[youtube,width=640,height=480]
+
 == Recursos e Atividades do Moodle
 
 Existem diversos recursos e atividades na plataforma Moodle. Este tutorial apresenta alguns dos mais utilizados por professores em suas aulas. O vídeo a seguir apresenta como adicionar um atividade ou recurso dentro do Moodle.
@@ -205,6 +211,12 @@ Chats são especialmente úteis quando um grupo de bate-papo não é capaz de se
 - Sessões para ajudar os estudantes a se prepararem para testes em que o professor ou outros estudantes, colocariam exemplos de perguntaso professor pode criar eventos no calendário para um curso do Moodle.
 
 video::dzuMpFjoEJA[youtube,width=640,height=480]
+
+=== Uso da atividade Glossário
+
+O Moodle oferece uma atividade chamada Glossário que permite a construção de material de apoio de forma colaborativa. Nesta atividade professores e discentes podem criar uma lista de palavras com suas definições, um dicionário específico, abordando os termos usados em uma determinada disciplina.
+
+video::v=Jnufw9o0SAk
 
 === Uso da atividade Questionário
 
