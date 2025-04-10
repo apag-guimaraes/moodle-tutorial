@@ -222,6 +222,12 @@ Neste vídeo você vai aprender a utilizar o mesmo questionário em outras disci
 
 video::DX5A1J7kPpc[youtube,width=640,height=480]
 
+=== Importando arquivos GIFT para criação de questões
+
+O vídeo aborda em como usar a ferremanetas de IA generativa para criação ou conversão de arquivos em formato GIFT para importação de questões na plataforma MOODLE.
+
+video::u5-5cEHncw0[youtube,width=640,height=480]
+
 == Conteúdo Interativo com H5P
 
 O H5P facilita a criação de conteúdo interativo, fornecendo uma variedade de tipos de conteúdo para diversas necessidades.
