@@ -98,7 +98,7 @@ video::FiJ4bO3avVY[youtube,width=640,height=480]
 
 O módulo de URL permite que um professor forneça um link de web como um recurso do curso. Qualquer coisa que esteja livremente disponível on-line, como documentos ou imagens, pode ser vinculada.
 
-video::-lW0TYXX09Y[youtube,width=640,height=480]
+video::nm7Zg9PpMw8[youtube,width=640,height=480]
 //video::JRpzsJvlOj0[youtube,width=640,height=480]
 
 === Adicionar vídeos e imagens com Rótulo em um curso Moodle
@@ -145,8 +145,14 @@ video::QYvKyKtdCoo[youtube,width=640,height=480]
 
 O módulo de atividade tarefa permite ao professor comunicar tarefas, recolher o trabalho e fornecer notas e comentários. Os estudantes podem apresentar qualquer conteúdo digital (arquivos), como documentos de texto, planilhas, imagens ou áudio e videoclipes. Ao analisar os trabalhos, os professores podem deixar comentários de feedback e fazer upload de arquivos, como marcar apresentações dos estudantes, documentos com comentários. Notas finais são registradas no livro de notas.
 
-video::MPk7rZOglx8[youtube,width=640,height=480]
+video::pg0U40bSpw4[youtube,width=640,height=480]
 //video::-dXCrY-diFg[youtube,width=640,height=480]
+
+=== Visualizar as tarefas enviadas e fazer correções no Moodle
+
+A plataforma Moodle oferece recursos bastante legais e funcionais que permite o docente fazer correções das tarefas enviadas pelos estudantes. 
+
+video::VCEo36428wU[youtube,width=640,height=480]
 
 === Enviando uma mensagem ao fórum de um curso no Moodle 
 
